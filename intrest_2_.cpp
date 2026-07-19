@@ -10,10 +10,10 @@ float simpleIntrest(){
     float r;
     float t;
 
-    cout<<"Enter Principle ammount: ";
+    cout<<"Enter Principal ammount: ";
     cin>>p;
 
-    cout<<"Enter intrest rate: ";
+    cout<<"Enter interest rate: ";
     cin>>r;
 
     cout<<"Enter time in year: ";
