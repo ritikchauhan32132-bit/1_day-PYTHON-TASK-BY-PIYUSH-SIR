@@ -1,3 +1,0 @@
-for(int i = 1; i <= 100; i = i+1){
-    //     cout<<i<<endl;
-    // }
